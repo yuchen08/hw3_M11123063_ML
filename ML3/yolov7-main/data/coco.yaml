@@ -1,0 +1,9 @@
+train: ./customdata/train.txt
+val: ./customdata/val.txt
+test: ./customdata/test.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: [ 'container' ]
